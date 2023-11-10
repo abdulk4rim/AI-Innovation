@@ -10,11 +10,11 @@ I am  Abdul Karim. I work as a government servant in the field of Legal Metrolo
 - 📊 Data Analysis 
 - 🌄 Image Analytics 
 - 🤖 Artificial intelligence
-- 📑 NLP
 - 📈 Machine Learning and Predictive Analytics
 - 📡 Data Mining and Big Data
 - 🐍 Python Programming
 - 📉 Statistical Modeling
+- 📑 NLP
  
 ## 🧰 Education
 - 🎓 **Master's Degree (Ongoing):** Regional Innovation - Data Science and Business Analysis 
