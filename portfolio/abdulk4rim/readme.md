@@ -20,7 +20,7 @@ I am  Abdul Karim. I work as a government servant in the field of Legal Metrolo
 - 🎓 **Master's Degree (Ongoing):** Regional Innovation - Data Science and Business Analysis 
   - **Institution:** Padjadjaran University, Indonesia
  
-- 🎓 **Bachelor's Degree:** Physics - majoring in Geophysics
+- 🎓 **Bachelor's Degree:** Physics - Majoring in Geophysics
   - **Institution:** University of Indonesia, Indonesia
   - **Graduation Year:** 2013
     
